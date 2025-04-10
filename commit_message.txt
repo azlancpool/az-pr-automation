@@ -1,0 +1,10 @@
+[12345] Added a new awesome functionality
+
+Changes in this commit:
+- Added a new awesome functionality
+
+Why is this change made?
+- Related with work item 12345
+
+Item:
+- #12345
